@@ -69,5 +69,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSl-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+<br>
 ![Snake animation](https://github.com/GabrielSl-Dev/GabrielSl-Dev/blob/output/github-contribution-grid-snake.svg)
 
