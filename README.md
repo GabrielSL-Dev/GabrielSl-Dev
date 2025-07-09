@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 <img 
     align="left" 
     alt="Python" 
