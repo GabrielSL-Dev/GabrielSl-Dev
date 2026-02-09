@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Gabriel Silva
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-end`**
 
 Olá! Me chamo Gabriel Silva de Lima, sou estudante de Gestão de Tecnologia da Informação na Universidade Paulista (UNIP) e apaixonado por tecnologia, inovação e desenvolvimento de soluções digitais.
 
