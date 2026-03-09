@@ -2,9 +2,11 @@
 
 **`Desenvolvedor Back-end`**
 
-Olá! Me chamo Gabriel Silva de Lima, sou estudante de Gestão de Tecnologia da Informação na Universidade Paulista (UNIP) e apaixonado por tecnologia, inovação e desenvolvimento de soluções digitais.
+Olá! Me chamo Gabriel Silva de Lima, estudante de Gestão da Tecnologia da Informação na UNIP.
 
-Atualmente, estou me especializando em Java e em tecnologias relacionadas ao desenvolvimento Back-end. Busco oportunidades na área ou em áreas correlatas, com o objetivo de expandir meus conhecimentos práticos, adquirir experiência profissional e contribuir de forma significativa com projetos e equipes de tecnologia.
+Tenho foco em desenvolvimento Back-end utilizando Java, SQL e boas práticas de programação.
+
+Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir com soluções eficientes.
 
 ### 🤖 Linguagens e Tecnologias
 
