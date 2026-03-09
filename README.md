@@ -10,34 +10,7 @@ Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhe
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn-icons-png.flaticon.com/128/226/226777.png" 
-/>
-
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=80&id=hYoELNwniGhi&format=png" 
-/>
-
-
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br/>
 <br/>
