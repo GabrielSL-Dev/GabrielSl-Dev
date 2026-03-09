@@ -14,7 +14,7 @@ Atualmente, estou me especializando em Java e em tecnologias relacionadas ao des
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" 
+    src="https://cdn-icons-png.flaticon.com/128/226/226777.png" 
 />
 
 
