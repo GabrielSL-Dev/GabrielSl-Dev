@@ -7,38 +7,14 @@ Olá! Me chamo Gabriel Silva de Lima, sou estudante de Gestão de Tecnologia da 
 Atualmente, estou me especializando em Java e em tecnologias relacionadas ao desenvolvimento Back-end. Busco oportunidades na área ou em áreas correlatas, com o objetivo de expandir meus conhecimentos práticos, adquirir experiência profissional e contribuir de forma significativa com projetos e equipes de tecnologia.
 
 ### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" 
 />
 
 
