@@ -22,7 +22,7 @@ Atualmente, estou me especializando em Java e em tecnologias relacionadas ao des
     alt="MySQL" 
     title="MySQL"
     width="50px" 
-    style="padding-right: 70px;" 
+    style="padding-right: 100px;" 
     src="https://img.icons8.com/?size=80&id=hYoELNwniGhi&format=png" 
 />
 
