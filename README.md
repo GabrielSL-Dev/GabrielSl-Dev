@@ -22,7 +22,7 @@ Atualmente, estou me especializando em Java e em tecnologias relacionadas ao des
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
