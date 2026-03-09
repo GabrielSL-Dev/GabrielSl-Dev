@@ -1,57 +1,72 @@
-# 👨🏻‍💻 Gabriel Silva
+<h1 align="center">👨🏻‍💻 Gabriel Silva de Lima</h1>
+<h3 align="center">Desenvolvedor Back-end Java</h3>
 
-**`Desenvolvedor Back-end`**
+<p align="center">
+Estudante de <b>Gestão da Tecnologia da Informação</b> na UNIP<br>
+Focado em desenvolvimento <b>Back-end com Java.</b>
+</p>
 
-Olá! Me chamo Gabriel Silva de Lima, estudante de Gestão da Tecnologia da Informação na UNIP.
+---
 
-Tenho foco em desenvolvimento Back-end utilizando Java, SQL e boas práticas de programação.
+## 🚀 Sobre mim
 
-Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir com soluções eficientes.
+- 🎓 Estudante de **Gestão da Tecnologia da Informação - UNIP**
+- 💻 Foco em **Desenvolvimento Back-end com Java**
+- 📚 Estudando **Spring Boot, APIs REST e Arquitetura de Software**
+- 🎯 Buscando **minha primeira oportunidade como desenvolvedor**
 
-### 🤖 Linguagens e Tecnologias
+---
 
-<table align="center">
-  <tr>
-    <!-- Skills Left -->
-    <td valign="top" width="45%">
-      <img src="./assets/images/Stack.svg">
-      </br>
-      </br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp" /><br>
-      <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap" /><br>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git" /><br>
-      <img src="https://skillicons.dev/icons?i=supabase,github,figma,vercel,androidstudio,arduino" /><br>
-    </td>
-    <!---->
-    <td valign="top" width="55%">
-      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=glauedson&repo=lembra-plus-note-app&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
+## 🧠 Tecnologias e Ferramentas
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
-    </td>
-  </tr>
-</table>
+<p align="center">
 
-<br/>
-<br/>
+<img src="https://skillicons.dev/icons?i=java" title="Java"/>
+<img src="https://skillicons.dev/icons?i=spring" title="Spring Boot"/>
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=git" title="Git"/>
+<img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+<img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+<img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
+<img src="https://skillicons.dev/icons?i=maven" title="Maven"/>
+<img src="https://skillicons.dev/icons?i=gradle" title="Gradle"/>
+<img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+<img src="https://skillicons.dev/icons?i=html" title="HTML"/>
+<img src="https://skillicons.dev/icons?i=css" title="CSS"/>
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
 
-### 📊 Estatísticas
+</p>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielSl-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSl-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 📊 Estatísticas do GitHub
 
- <div align-center>
-    <img src="https://raw.githubusercontent.com/GabrielSl-Dev/GabrielSl-Dev/output/snake.svg" alt="Snake animation" />
- </div>
+<p align="center">
+  
+## 📊 Estatísticas do GitHub
+
+![GabrielSL-Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSL-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielSl-Dev/GabrielSl-Dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielSl-Dev/GabrielSl-Dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielSl-Dev/GabrielSl-Dev/output/pacman-contribution-graph.svg">
+</picture>
+---
+
+## 📫 Contato
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gabrielsilvadelima/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:gabrielsilvadelima2015@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+</p>
