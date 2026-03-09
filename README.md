@@ -42,6 +42,35 @@ Focado em desenvolvimento <b>Back-end com Java.</b>
 
 ## 📊 Estatísticas do GitHub
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSL-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSL-Dev&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=GabrielSL-Dev&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🐍 Gráfico de Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielSL-Dev/GabrielSL-Dev/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielSL-Dev/GabrielSL-Dev/output/pacman-contribution-graph.svg">
+</picture>
+
+## 📊 Estatísticas do GitHub
+
 <p align="center">
   
 ## 📊 Estatísticas do GitHub
