@@ -4,7 +4,7 @@
 
 Olá! Me chamo Gabriel Silva de Lima, sou estudante de Gestão de Tecnologia da Informação na Universidade Paulista (UNIP) e apaixonado por tecnologia, inovação e desenvolvimento de soluções digitais.
 
-Atualmente, estou me especializando em Python, Java e em tecnologias relacionadas ao desenvolvimento Full Stack. Busco oportunidades na área ou em áreas correlatas, com o objetivo de expandir meus conhecimentos práticos, adquirir experiência profissional e contribuir de forma significativa com projetos e equipes de tecnologia.
+Atualmente, estou me especializando em Java e em tecnologias relacionadas ao desenvolvimento Back-end. Busco oportunidades na área ou em áreas correlatas, com o objetivo de expandir meus conhecimentos práticos, adquirir experiência profissional e contribuir de forma significativa com projetos e equipes de tecnologia.
 
 ### 🤖 Linguagens e Tecnologias
 <img 
