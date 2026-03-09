@@ -3,7 +3,7 @@
 
 <p align="center">
 Estudante de <b>Gestão da Tecnologia da Informação</b> na UNIP<br>
-Focado em desenvolvimento <b>Back-end com Java.</b>
+Focado em desenvolvimento <b>Back-end com Java</b>
 </p>
 
 ---
@@ -44,7 +44,7 @@ Focado em desenvolvimento <b>Back-end com Java.</b>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSL-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSL-Dev&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSL-Dev&layout=compact&theme=tokyonight"/>
 
@@ -69,33 +69,18 @@ Focado em desenvolvimento <b>Back-end com Java.</b>
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielSL-Dev/GabrielSL-Dev/output/pacman-contribution-graph.svg">
 </picture>
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  
-## 📊 Estatísticas do GitHub
-
-![GabrielSL-Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSL-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielSl-Dev/GabrielSl-Dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielSl-Dev/GabrielSl-Dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielSl-Dev/GabrielSl-Dev/output/pacman-contribution-graph.svg">
-</picture>
 ---
 
 ## 📫 Contato
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gabrielsilvadelima/">
+<a href="https://www.linkedin.com/in/gabrielsilvadelima">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
 <a href="mailto:gabrielsilvadelima2015@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-</p>
 </p>
