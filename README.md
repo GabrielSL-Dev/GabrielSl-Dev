@@ -61,11 +61,12 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 
 ---
 
-## 🐍 Gráfico de Contribuições
+## 🐍 Contribuições
 
-## 📈 Gráfico de Contribuições
-
-[![GabrielSL-Dev Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielSL-Dev&theme=tokyo-night)](https://github.com/GabrielSL-Dev)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielSL-Dev/GabrielSL-Dev/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielSL-Dev/GabrielSL-Dev/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 ## 📫 Contato
