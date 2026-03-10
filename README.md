@@ -1,3 +1,4 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Gabriel%20Silva%20de%20Lima&fontSize=70&animation=fadeIn&theme=dark)
 <h1 align="center">👨🏻‍💻 Gabriel Silva de Lima</h1>
 <h3 align="center">Desenvolvedor Back-end Java</h3>
 
