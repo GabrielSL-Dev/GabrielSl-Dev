@@ -42,14 +42,16 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 
 ## 📊 Estatísticas
 
+## 📊 Estatísticas
+
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img height="195" src="https://streak-stats.demolab.com?user=GabrielSL-Dev&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+      <td align="center">
+        <img height="180em" src="https://streak-stats.demolab.com?user=GabrielSL-Dev&theme=tokyonight&hide_border=false" alt="GitHub streak stats" />
       </td>
-      <td>
-        <img height="195" src="https://github-readme-stats.vercel.app/api?username=GabrielSL-Dev&show_icons=true&theme=tokyonight&count_private=true&border_radius=8" alt="Gabriel's GitHub Stats" />
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSL-Dev&show_icons=true&theme=tokyonight&count_private=true&border_radius=8" alt="Gabriel's GitHub Stats" />
       </td>
     </tr>
   </table>
