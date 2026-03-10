@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GabrielSL-Dev/GabrielSL-Dev/main/assets/banner-codigo.png" alt="Banner de Código Java" width="100%">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GabrielSL-Dev/GabrielSL-Dev/main/assets/banner-codigo.png" width="100%" height="250" style="object-fit: cover; border-radius: 10px;">
+  
+  <div style="position: absolute; top: 110px; left: 50%; transform: translate(-50%, -50%);">
+    <img src="https://avatars.githubusercontent.com/u/166160563?v=4" width="100" style="border-radius: 50%; border: 3px solid #fff;">
+    <h1 style="color: white; margin-top: 10px;">Gabriel Silva de Lima</h1>
+    <p style="color: #ddd;">Desenvolvedor Back-end Java | Estudante de TI</p>
+  </div>
+</div>
+<br>
 <h1 align="center">👨🏻‍💻 Gabriel Silva de Lima</h1>
 <h3 align="center">Desenvolvedor Back-end Java</h3>
 
