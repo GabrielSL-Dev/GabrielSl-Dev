@@ -45,7 +45,7 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=GabrielSL-Dev&theme=Tokyonight"/>
 
-<img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GabrielSL-Dev&count_private=true&show_icons=true&theme=node&rank_icon=github&border_radius=8" />
+<img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GabrielSL-Dev&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
 
 <div align="center">
 
