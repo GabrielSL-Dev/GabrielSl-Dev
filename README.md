@@ -47,6 +47,8 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 
 </div>
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielSL-Dev&show_icons=true&theme=vision-friendly-dark&count_private=true)
+
 ---
 
 ## 📱 Contato
