@@ -49,6 +49,11 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 
 <div align="center">
 
+<div align="center">
+  <h2>📊 Estatísticas</h2>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielSL-Dev&show_icons=true&theme=tokyonight&count_private=true&border_radius=8" />
+  <img height="180" src="https://streak-stats.demolab.com?user=GabrielSL-Dev&theme=tokyonight&hide_border=false" />
+</div>
 ## 📱 Contato
 <div align="center">
 <a href="https://www.linkedin.com/in/gabrielsilvadelima" b>
