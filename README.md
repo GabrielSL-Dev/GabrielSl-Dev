@@ -6,6 +6,7 @@ Estudante de <b>Gestão da Tecnologia da Informação</b> na UNIP<br>
 Focado em desenvolvimento <b>Back-end com Java</b>
 </p>
 
+---
 
 ## 🚀 Sobre mim
 
@@ -14,6 +15,7 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 - 📚 Estudando **Spring Boot, APIs REST e Arquitetura de Software**
 - 🎯 Buscando **minha primeira oportunidade como desenvolvedor**
 
+---
 
 ## 🧠 Tecnologias e Ferramentas
 
@@ -36,7 +38,7 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 
 </p>
 
-
+---
 
 ## 📊 Estatísticas
 <div align="center">
@@ -45,6 +47,7 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 
 </div>
 
+---
 
 ## 📱 Contato
 
