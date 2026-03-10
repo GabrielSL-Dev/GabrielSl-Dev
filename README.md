@@ -50,6 +50,7 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 <div align="center">
 
 ## 📱 Contato
+
 <div align="center">
 <a href="https://www.linkedin.com/in/gabrielsilvadelima" b>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
