@@ -41,18 +41,6 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 ---
 
 ## 📊 Estatísticas do GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielSL-Dev&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSL-Dev&layout=compact&theme=tokyonight"/>
-
-</p>
----
-
-## 🔥 Sequência de Contribuições
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=GabrielSL-Dev&theme=tokyonight"/>
@@ -60,13 +48,6 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 </div>
 
 ---
-
-## 🐍 Contribuições
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
 
 ## 📫 Contato
 
