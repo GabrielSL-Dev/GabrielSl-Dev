@@ -43,7 +43,7 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 ## 📊 Estatísticas
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=GabrielSL-Dev&theme=dark"/>
+<img src="https://streak-stats.demolab.com?user=GabrielSL-Dev&theme=blueberry"/>
 
 </div>
 
