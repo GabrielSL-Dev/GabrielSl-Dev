@@ -54,8 +54,9 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto[:gabrielsilvadelima2015@gmail.com]([https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new](https://mail.google.com/mail/u/0/?tab=rm&ogbl#all?compose=jrjtXGkBnkpDWxZpLzVgqLQNVdSChBJPZfhnFkNpQQPBLLQmlppNxjsXFWkJbTTHFpnXlnNr))">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:gabrielsilvadelima2015@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
 
 </p>
