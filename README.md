@@ -41,14 +41,19 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 ---
 
 ## 📊 Estatísticas
-<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=GabrielSL-Dev&theme=Tokyonight"/>
-<!-- GitHub Status -->
-<img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GabrielSL-Dev&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
 <div align="center">
- 
-
+  <table border="0">
+    <tr>
+      <td>
+        <img height="195" src="https://streak-stats.demolab.com?user=GabrielSL-Dev&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+      </td>
+      <td>
+        <img height="195" src="https://github-readme-stats.vercel.app/api?username=GabrielSL-Dev&show_icons=true&theme=tokyonight&count_private=true&border_radius=8" alt="Gabriel's GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## 📱 Contato
