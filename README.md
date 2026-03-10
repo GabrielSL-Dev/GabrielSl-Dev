@@ -47,7 +47,23 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 
 </div>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielSL-Dev&show_icons=true&theme=vision-friendly-dark&count_private=true)
+# Olá, eu sou o Gabriel! 👋
+
+### 📊 Minhas Estatísticas do GitHub
+
+![Estatísticas do Gabriel](https://github-readme-stats.vercel.app/api?username=GabrielSL-Dev&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=true)
+
+### 🛠️ Linguagens e Tecnologias mais utilizadas
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSL-Dev&layout=compact&theme=vision-friendly-dark&hide_border=true)
+
+---
+
+### 📈 Sequência de Contribuições (Streak)
+![Status de Sequência](https://github-readme-streak-stats.herokuapp.com/?user=GabrielSL-Dev&theme=vision-friendly-dark&hide_border=true)
+
+---
+*“O código é a lei, mas o café é o combustível.”* ☕
 
 ---
 
