@@ -1,4 +1,6 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Gabriel+Silva+de+Lima;Desenvolvedor+Back-end+Java;Estudante+de+TI" alt="Typing SVG" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GabrielSL-Dev/GabrielSL-Dev/main/assets/banner-codigo.png" alt="Banner de Código Java" width="100%">
+</p>
 <h1 align="center">👨🏻‍💻 Gabriel Silva de Lima</h1>
 <h3 align="center">Desenvolvedor Back-end Java</h3>
 
