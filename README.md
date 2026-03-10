@@ -63,10 +63,10 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 
 ## 🐍 Contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielSL-Dev/GabrielSL-Dev/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielSL-Dev/GabrielSL-Dev/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
 
 ## 📫 Contato
 
