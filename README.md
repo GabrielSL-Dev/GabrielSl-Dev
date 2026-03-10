@@ -43,22 +43,10 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 ## 📊 Estatísticas
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=GabrielSL-Dev&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=GabrielSL-Dev&theme=vision-friendly-dark"/>
 
 </div>
 
-### 📊 Minhas Estatísticas do GitHub
-
-![Estatísticas do Gabriel](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=GabrielSL-Dev&show_icons=true&theme=vision-friendly-dark&count_private=true)
-
-### 🛠️ Linguagens mais utilizadas
-
-![Linguagens do Gabriel](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=GabrielSL-Dev&layout=compact&theme=vision-friendly-dark)
-
----
-
-### 📈 Sequência de Contribuições (Streak)
-![Status de Sequência](https://github-readme-streak-stats.herokuapp.com/?user=GabrielSL-Dev&theme=vision-friendly-dark)
 ---
 
 ## 📱 Contato
