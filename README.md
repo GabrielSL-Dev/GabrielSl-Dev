@@ -40,7 +40,7 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=GabrielSL-Dev&theme=tokyonight"/>
