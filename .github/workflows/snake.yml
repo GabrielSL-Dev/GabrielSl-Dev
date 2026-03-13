@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -16,7 +19,7 @@ jobs:
           github_user_name: GabrielSL-Dev
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push snake to output branch
+      - name: Push snake
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
