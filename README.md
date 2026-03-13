@@ -47,6 +47,8 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 
 <img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GabrielSL-Dev&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=8" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSL-Dev&layout=compact&theme=github_dark)
+
 ![Snake animation](https://github.com/GabrielSL-Dev/GabrielSL-Dev/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
@@ -63,19 +65,3 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 </a>
 
 </p>
-
-# Gabriel Silva 👨‍💻
-
-Backend Developer (Java)
-
-## 📊 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSL-Dev&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSL-Dev&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=GabrielSL-Dev&theme=github-dark)
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/GabrielSL-Dev/GabrielSL-Dev/blob/output/github-contribution-grid-snake.svg)
