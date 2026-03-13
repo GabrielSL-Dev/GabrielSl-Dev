@@ -47,6 +47,7 @@ Focado em desenvolvimento <b>Back-end com Java</b>
 
 <img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GabrielSL-Dev&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=8" />
 
+![Snake animation](https://github.com/GabrielSL-Dev/GabrielSL-Dev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
